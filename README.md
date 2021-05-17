@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciuspuerto" alt="viniciuspuerto" /> </p>
 
-- 🔭 I’m currently working on [Ponto a Ponto](https://www.papmob.com/)
+- 🔭 I’m currently working on [RD Station](https://www.rdstation.com/en/)
 
 - 🌱 I’m currently learning **Elixir, Electron, Functional Programming**
 
